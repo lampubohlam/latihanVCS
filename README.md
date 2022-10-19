@@ -1,4 +1,4 @@
-# HALO PERKENALKAN NAMA SAYA ABDUL AZIZ
+# HALO PERKENALKAN NAMA SAYA ABDUL AZIZ_312210022
 Saya akan akan mempelajari cara informasi tentang Vesrion Control Systeem (VCS) dengan menggunakan Git
 
 # 1. Penginstalan Git
